@@ -1,4 +1,10 @@
 ## Hi there 👋
+This is the official GitHub for NQCP. This GitHub is meant for collaboration outside of NQCP or for software NQCP wishes to share with the world.
+
+### Contribution guidelines
+
+- If edit or contribute Python files, please use the Black formatter
+- Be nice
 
 <!--
 
