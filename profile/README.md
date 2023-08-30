@@ -5,6 +5,7 @@ This is the official GitHub for NQCP. This GitHub is meant for collaboration out
 
 - If you edit or contribute Python files, please use the Black formatter
 - Be nice
+- If you are starting a new project please consider using the [project template](https://github.com/NQCP/osprojecttemplate)
 
 <!--
 
